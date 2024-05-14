@@ -1,0 +1,7 @@
+database me do user jinka 
+1.username:Radha
+password:123654789
+2.username:It's me Mahadev.
+password:Ram@1234
+
+//just for demo ye dono rakhe h.
